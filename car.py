@@ -18,3 +18,16 @@ Functions:
 - (maybe) edit other attributes / 1 edit function for each attribute
 - Record lane time
 '''
+
+class Car:
+    CrNmbr=
+    CrDrvr=
+    CrWght=
+    CrAgeRng=
+    ChckdIn= (Y/N)
+    CrrntLn= [Red, Green, Yellow, Blue]
+    LnTms= [Red, Green, Yellow, Blue]
+    DQd= (Y/N)
+        #Here starts the functions
+    def average(total(LnTms)/(len(LnTms)-(# of zeros in list)))
+    
